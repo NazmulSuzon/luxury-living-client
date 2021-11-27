@@ -1,0 +1,20 @@
+[
+    {   
+        "id":"1",
+        "img": "https://i.ibb.co/71W9mfr/house1.png",
+        "title": "Villa on Washington Avenue",
+        "location": "Dhaka, Bangladesh"
+    },
+    {   
+        "id":"2",
+        "img": "https://i.ibb.co/FkvVmzt/house2.png",
+        "title": "Luxury villa Rego Park",
+        "location": "Dhaka, Bangladesh"
+    },
+    {   
+        "id":"3",
+        "img": "https://i.ibb.co/841cRkp/house3.png",
+        "title": "Gorgeous House",
+        "location": "Dhaka, Bangladesh"
+    }
+]

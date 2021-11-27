@@ -1,0 +1,12 @@
+.primary-color{
+    background-color: rgb(37,29,88)!important;
+    /* color: rgb(37,29,88)!important; */
+}
+div a{
+    color: rgb(37,29,88)!important;
+    text-decoration: none;
+    margin-right: 15px;
+}
+.top-banner{
+    background-color: rgb(246,246,246)!important;
+}
